@@ -1,0 +1,16 @@
+
+
+[org.gnome.desktop.interface]
+color-scheme='prefer-dark'
+gtk-theme='Jasper-Dark'
+icon-theme='GreyStone'
+cursor-theme='breeze_cursors'
+cursor-size=24
+
+
+[org.gnome.desktop.wm.preferences]
+theme='Jasper-Dark'
+
+
+[org.gnome.shell.extensions.user-theme]
+name='Jasper-Dark'
